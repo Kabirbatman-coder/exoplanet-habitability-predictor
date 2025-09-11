@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/exoplanet-habitability-predictor/static/css/main.35c88f96.css",
-    "main.js": "/exoplanet-habitability-predictor/static/js/main.9c435df1.js",
-    "static/js/924.d9196a89.chunk.js": "/exoplanet-habitability-predictor/static/js/924.d9196a89.chunk.js",
-    "static/js/956.7b3abb6b.chunk.js": "/exoplanet-habitability-predictor/static/js/956.7b3abb6b.chunk.js",
+    "main.js": "/exoplanet-habitability-predictor/static/js/main.dcc1d9b8.js",
+    "static/js/924.cef2ad33.chunk.js": "/exoplanet-habitability-predictor/static/js/924.cef2ad33.chunk.js",
+    "static/js/406.d08f3cac.chunk.js": "/exoplanet-habitability-predictor/static/js/406.d08f3cac.chunk.js",
     "index.html": "/exoplanet-habitability-predictor/index.html",
     "main.35c88f96.css.map": "/exoplanet-habitability-predictor/static/css/main.35c88f96.css.map",
-    "main.9c435df1.js.map": "/exoplanet-habitability-predictor/static/js/main.9c435df1.js.map",
-    "924.d9196a89.chunk.js.map": "/exoplanet-habitability-predictor/static/js/924.d9196a89.chunk.js.map",
-    "956.7b3abb6b.chunk.js.map": "/exoplanet-habitability-predictor/static/js/956.7b3abb6b.chunk.js.map"
+    "main.dcc1d9b8.js.map": "/exoplanet-habitability-predictor/static/js/main.dcc1d9b8.js.map",
+    "924.cef2ad33.chunk.js.map": "/exoplanet-habitability-predictor/static/js/924.cef2ad33.chunk.js.map",
+    "406.d08f3cac.chunk.js.map": "/exoplanet-habitability-predictor/static/js/406.d08f3cac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35c88f96.css",
-    "static/js/main.9c435df1.js"
+    "static/js/main.dcc1d9b8.js"
   ]
 }
