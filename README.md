@@ -250,81 +250,6 @@ src/
 
 ## 🔧 Configuration
 
-### Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-# API Configuration
-REACT_APP_API_URL=http://localhost:5000/api
-REACT_APP_MOCK_MODE=false
-
-# Application Settings
-REACT_APP_VERSION=1.0.0
-REACT_APP_ENVIRONMENT=development
-```
-
-### Customization Options
-
-**Theme Colors** (in `tailwind.config.js`):
-```javascript
-colors: {
-  primary: {
-    50: '#eff6ff',
-    500: '#3b82f6',
-    900: '#1e3a8a',
-  }
-}
-```
-
-**Animation Settings** (in components):
-```javascript
-transition={{ duration: 0.8, delay: 0.2 }}
-```
-
-## 🧪 Testing Your ML Model
-
-### Test Data Validation
-
-Use these test cases to validate your model integration:
-
-1. **Earth-like Planet** (Expected: High habitability)
-   - Radius: 1.0 RE, Period: 365 days, Temperature: 288K
-
-2. **Hot Jupiter** (Expected: Low habitability)
-   - Radius: 11.0 RE, Period: 3 days, Temperature: 1000K
-
-3. **Cold Super-Earth** (Expected: Marginal habitability)
-   - Radius: 1.5 RE, Period: 1000 days, Temperature: 200K
-
-### Performance Benchmarks
-
-- **Prediction latency**: < 2 seconds
-- **UI responsiveness**: < 100ms for interactions
-- **Data loading**: < 1 second for database queries
-
-## 📈 Advanced Features
-
-### Real-time NASA API Integration
-
-```javascript
-// Future enhancement: Live NASA data
-const NASA_API_KEY = 'your-nasa-api-key';
-const NASA_ENDPOINT = 'https://exoplanetarchive.ipac.caltech.edu/TAP';
-```
-
-### Batch Processing
-
-```javascript
-// Process multiple planets simultaneously
-const batchPredict = async (planetArray) => {
-  const promises = planetArray.map(planet => 
-    exoplanetAPI.predictHabitability(planet)
-  );
-  return await Promise.all(promises);
-};
-```
-
 ### Export Formats
 
 - **JSON**: Full data structure
@@ -368,7 +293,7 @@ CMD ["npm", "start"]
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ [LICENSE](LICENSE) file for details.
 
 ## 🌟 Acknowledgments
 
@@ -381,8 +306,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-repo/discussions)
-- **Email**: support@exoplanetai.com
-
+- **Email**: 1kabirkhankk@gmail.com
 ---
 
 **Ready to discover habitable worlds? Start exploring! 🌍✨** 
